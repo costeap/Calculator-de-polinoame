@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="540.0" y="0.0">Model.Monom</node>
+    <node x="0.0" y="717.0">Model.Operatii</node>
+    <node x="294.0" y="0.0">Model.Polinom</node>
+    <node x="320.0" y="717.0">Controller.CalcController</node>
+    <node x="549.0" y="717.0">MVC.MainClass</node>
+    <node x="0.0" y="0.0">View.CalcView</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.5" x="471.44444444444457" y="497.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
